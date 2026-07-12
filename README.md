@@ -1,7 +1,7 @@
 
 **MERN Stack AI Chatbot**
 
-By Muhammad Balal Ansar (Cyber Security Expert)
+**By Muhammad Balal Ansar (Cyber Security Expert)**
 
 
 A secure and intelligent chatbot application inspired by ChatGPT. This project is built using the MERN stack (MongoDB, Express.js, React, Node.js) and integrates with the OpenAI API to provide conversational experiences.
