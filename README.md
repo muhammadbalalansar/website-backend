@@ -63,6 +63,7 @@ Create a .env file in the backend folder and add:
 Code snippet
 PORT=5000
 MONGODB_URI=your_mongodb_connection_string
+
 JWT_SECRET=your_jwt_secret
 OPENAI_API_KEY=your_openai_api_key
 COOKIE_SECRET=your_cookie_secret
