@@ -78,5 +78,6 @@ Contributing
 Contributions are welcome. Please open an issue or submit a pull request if you have suggestions for improvement.
 
 Security Note
+
 This project utilizes signed cookies and protected middleware chains to ensure that user data remains private and secure.
 prepared by Chaudhary Bilal
