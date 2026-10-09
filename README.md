@@ -1,6 +1,6 @@
 **MERN Stack AI Chatbot**
 
-use for every website
+use for every Project
 
 **By Muhammad Balal Ansar (Cyber Security Expert)**
 
